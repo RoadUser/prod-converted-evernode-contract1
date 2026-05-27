@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "postExecutionScriptName": "./post_exec.sh",
+    "dbPath": "hello_world.db",
+    "dbScriptsFolderPath": "./dbScripts",
+    "newContractZipFileName": "./newContractData.zip"
+  }
+}
